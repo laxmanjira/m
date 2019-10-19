@@ -1,4 +1,7 @@
 import java.util.Scanner;
+laxman
+laxma
+laxman
 laxman edited
 laxman edited 2
 class CheckEvenOdd
